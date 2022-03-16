@@ -1,0 +1,99 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - moe</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" type="text/css" />
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="containerLogo">
+            <img src="~/img/logo/moe A4 Roboto 2.png" width="300" height="150">
+        </div>
+        <nav class="containerNav">
+            <div class="container">
+                <div>
+                    <ul class="nav justify-content-center textNav">
+                        <li class="nav-item">
+                            <a class="nav-link link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link" asp-area="" asp-controller="Home"
+                                asp-action="Produtos">Produtos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link" asp-area="" asp-controller="Home" asp-action="Sobre">Sobre</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link" asp-area="" asp-controller="Contato"
+                                asp-action="Contato">Contato</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link link" asp-area="" asp-controller="Usuario"
+                                asp-action="Cadastro">Cadaste-se</a>
+                        </li>
+
+
+                        @if (Context.Session.GetInt32("IdUsuario") == null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link link" asp-area="" asp-controller="Usuario" asp-action="Login">Login</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link link" asp-area="" asp-controller="Usuario" asp-action="Lista">Listagem de
+                                    Usuarios</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link link" asp-area="" asp-controller="Contato"
+                                asp-action="Mensagens">Mensagens</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link link" asp-area="" asp-controller="Venda" asp-action="Adicionar">Adicionar
+                                    ao carrinho</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link link" asp-area="" asp-controller="Venda" asp-action="Carrinho">Meu
+                                    carrinho</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link link" asp-area="" asp-controller="Usuario" asp-action="Logout">Sair</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer>
+        <div class="textoRodape">
+            <p>
+                Rua Dom Pedro I, XXX - Bairro do Tanque - São Paulo-SP
+            </p>
+            <p>
+                (xx)91234-5678 | CNPJ: 1234567891011 - Todos os direitos reservados
+            </p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/script.js" asp-append-version="true"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>

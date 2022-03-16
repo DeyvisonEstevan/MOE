@@ -1,0 +1,49 @@
+@model List<Venda>
+@{
+    ViewData["Title"] = "Carrinho de Compras";
+}
+
+<body>
+    <main>
+        <div>
+            <div class="titulo">
+                <h2>
+                    Carrinho de Vendas
+                </h2>
+            </div>
+        </div>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id Usuário</th>
+                        <th>Id Produto</th>
+                        <th>Produto</th>
+                        <th>Quantidade</th>
+                        <th>Valor</th>
+                        <th>Total</th>
+                        <th>Operações</th>
+                    </tr>
+                </thead>
+                @foreach (Venda v in Model)
+                {
+                    <tr>
+                        <td>@v.IdUsuario</td>
+                        <td>@v.IdProduto</td>
+                        <td>@v.NomeProduto</td>
+                        <td>@v.QuantidadeVendida</td>
+                        <td>@v.ValorProduto</td>
+                        <td>@v.ValorTotalProduto</td>
+                        <td>
+                            <a href="/Venda/Editar?IdUsuario=@v.IdUsuario">Alterar</a> /
+                            <a href="/Venda/Remover?IdUsuario=@v.IdUsuario">Excluir</a>
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+        <div>
+            @ViewBag.Mensagem
+        </div>
+    </main>
+</body>

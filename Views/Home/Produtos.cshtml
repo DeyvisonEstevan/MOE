@@ -1,0 +1,220 @@
+@{
+    ViewData["Title"] = "Produtos";
+}
+<link rel="stylesheet" href="/css/style.css" type="text/css" />
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+<body>
+    <main>
+        <div class="containerBusca">
+            <div class="divBusca">
+                <img src="~/img/complementares/pesquisa.png" alt="pesquisa" />
+                <input type="text" class="textoBusca" placeholder="Pesquisar...">
+                <input type="button" class="botaoBusca" value="Pesquisar">
+            </div>
+        </div>
+        <div class="titulo">
+            <h2>
+                Produtos por Ambiente
+            </h2>
+        </div>
+        <div>
+            <div class="titulo">
+                <h2>
+                    Área Externa
+                </h2>
+            </div>
+            <div class="containerProdutos">
+                <div class="cartao">
+                    <a href="/Venda/Adicionar"><img
+                            src="~/img/área externa/banco-duplo-grande-área-externa-moveis de encaixe-moe-compensado-madeira-1.jpg"
+                            height="250" width="320" alt="banco duplo moveis de encaixe"></a>
+                    <div class="descricao">
+                        <h2>Banco Grande</h2>
+                        <h3>R$85,00</h3>
+                    </div>
+                </div>
+                <div class="cartao">
+                    <a href="/Venda/Adicionar"><img
+                            src="~/img/área externa/banco-simples-área-externa-moveis de encaixe-moe-compensado-madeira-1.jpg"
+                            height="250" width="320" alt="banco simples moveis de encaixe"></a>
+                    <div class="descricao">
+                        <h2>Banco Simples</h2>
+                        <h3>R$65,00</h3>
+                    </div>
+                </div>
+                <div class="cartao">
+                    <a href="/Venda/Adicionar"><img
+                            src="~/img/área externa/jardineira-floreira-estante-moveis de encaixe-moe-compensado-3.jpg"
+                            height="250" width="320" alt="jardineira moveis de encaixe"></a>
+                    <div class="descricao">
+                        <h2>Jardineira</h2>
+                        <h3>R$85,00</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="titulo">
+                <h2>
+                    Quarto
+                </h2>
+            </div>
+            <div class="slideshow-container">
+                <div class="mySlides">
+                    <div class="containerProdutos">
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/quarto/criado-mudo-quarto-moveis de encaixe-moe-compensado-madeira-1.jpg"
+                                    height="250" width="320" alt="criado mudo moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Criado-mudo</h2>
+                                <h3>R$75,00</h3>
+                            </div>
+                        </div>
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/quarto/mini estante-estante-escritório-moveis de encaixe-moe-compensado-1.jpg"
+                                    height="250" width="320" alt="estante moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Mini Estante</h2>
+                                <h3>R$40,00</h3>
+                            </div>
+                        </div>
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/quarto/revisteiro-porta-revistas-moveis de encaixe-moe-compensado-1.jpg"
+                                    height="250" width="320" alt="revisteiro moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Revisteiro</h2>
+                                <h3>R$55,00</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mySlides">
+                    <div class="containerProdutos">
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/quarto/mini estante-estante-escritório-moveis de encaixe-moe-compensado-1.jpg"
+                                    height="250" width="320" alt="estante moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Mini Estante</h2>
+                                <h3>R$40,00</h3>
+                            </div>
+                        </div>
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/quarto/revisteiro-porta-revistas-moveis de encaixe-moe-compensado-1.jpg"
+                                    height="250" width="320" alt="porta revistas moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Revisteiro</h2>
+                                <h3>R$55,00</h3>
+                            </div>
+                        </div>
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/quarto/apoio para notebook-moveis de encaixe-moe-compensado-1.jpg"
+                                    height="250" width="320" alt="apoio para notebook moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Apoio de notebook</h2>
+                                <h3>R$45,00</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Botões de "Próximo" e "Anterior" -->
+                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                <a class="next" onclick="plusSlides(1)">&#10095;</a>
+            </div>
+
+        </div>
+        <!-- Circulos para navegação -->
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+        </div>
+
+        <div>
+            <div class="titulo">
+                <h2>
+                    Sala
+                </h2>
+            </div>
+            <div class="slideshow-container">
+                <div class="mySlidesProd">
+                    <div class="containerProdutos">
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/sala/adega-moveis de encaixe-moe-compensado-1.jpg" height="250"
+                                    width="320" alt="adega moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Adega modular</h2>
+                                <h3>R$60,00</h3>
+                            </div>
+                        </div>
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/sala/cadeira-simples-sala-moveis de encaixe-moe-compensado-madeira-1.jpg"
+                                    height="250" width="320" alt="cadeira simpes moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Cadeira</h2>
+                                <h3>R$120,00</h3>
+                            </div>
+                        </div>
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/sala/rack-sala-estar-moveis de encaixe-moe-compensado-madeira-1.jpg"
+                                    height="250" width="320" alt="rack simpes moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Rack</h2>
+                                <h3>R$250,00</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mySlidesProd">
+                    <div class="containerProdutos">
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/sala/rack-sala-estar-moveis de encaixe-moe-compensado-madeira-1.jpg"
+                                    height="250" width="320" alt="rack simpes moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Rack</h2>
+                                <h3>R$250,00</h3>
+                            </div>
+                        </div>
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/sala/poltrona-base-sala-estar-moveis de encaixe-moe-compensado-madeira-1.jpg"
+                                    height="250" width="320" alt="poltrona simpes moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Poltrona</h2>
+                                <h3>R$240,00</h3>
+                            </div>
+                        </div>
+                        <div class="cartao">
+                            <a href="/Venda/Adicionar"><img
+                                    src="~/img/sala/sofá-modular-base-sala-estar-moveis de encaixe-moe-compensado-madeira-3.jpg"
+                                    height="250" width="320" alt="sofá moveis de encaixe"></a>
+                            <div class="descricao">
+                                <h2>Sofá modular</h2>
+                                <h3>R$280,00</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Botões de "Próximo" e "Anterior" -->
+                <a class="prev" onclick="adicionaSlides(-1)">&#10094;</a>
+                <a class="next" onclick="adicionaSlides(1)">&#10095;</a>
+            </div>
+            <!-- Circulos para navegação -->
+            <div style="text-align:center">
+                <span class="ponto" onclick="atualSlide(1)"></span>
+                <span class="ponto" onclick="atualSlide(2)"></span>
+            </div>
+        </div>
+    </main>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>

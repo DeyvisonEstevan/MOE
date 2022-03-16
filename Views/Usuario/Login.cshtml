@@ -1,0 +1,43 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+
+<body>
+    <main>
+        <div>
+            <div class="titulo">
+                <h2>
+                    Login
+                </h2>
+            </div>
+        </div>
+        <div>
+            <div>
+                <form method="POST" class="formGeral" asp-action="Login">
+                    <div class="formCampos">
+                        <div class="campos">
+                            <div>
+                                <label asp-for="Login" class="inputCampos">Login:</label>
+                                <input type="text" class="text" asp-for="Login">
+                            </div>
+                        </div>
+                        <div class="campos">
+                            <div>
+                                <label asp-for="Senha" class="inputCampos">Senha:</label>
+                                <input type="text" id="txtSenha" class="text" asp-for="Senha" onblur="validaSenha()">
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <input type="submit" class="btnForm" value="Login" />
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div>
+            @ViewBag.Mensagem
+        </div>
+    </main>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>

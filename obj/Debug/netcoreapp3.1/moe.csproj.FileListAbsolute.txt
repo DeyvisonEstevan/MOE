@@ -1,0 +1,135 @@
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\moe.exe
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\moe.deps.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\moe.runtimeconfig.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\moe.runtimeconfig.dev.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\moe.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\moe.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\moe.Views.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\bin\Debug\netcoreapp3.1\moe.Views.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.csprojAssemblyReference.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.AssemblyInfoInputs.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.AssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.csproj.CoreCompileInputs.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.RazorAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.RazorAssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.TagHelpers.input.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.TagHelpers.output.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.RazorCoreGenerate.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.RazorTargetAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.RazorTargetAssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.Views.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\staticwebassets\moe.StaticWebAssets.Manifest.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\staticwebassets\moe.StaticWebAssets.xml
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.genruntimeconfig.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\moe.csproj.CopyComplete
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 3\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mensagens.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\moe.exe
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\moe.deps.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\moe.runtimeconfig.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\moe.runtimeconfig.dev.json
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\moe.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\moe.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\moe.Views.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\moe.Views.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.csprojAssemblyReference.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.AssemblyInfoInputs.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.AssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.csproj.CoreCompileInputs.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.RazorAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.RazorAssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.TagHelpers.input.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.TagHelpers.output.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.RazorCoreGenerate.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.RazorTargetAssemblyInfo.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.RazorTargetAssemblyInfo.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.Views.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\staticwebassets\moe.StaticWebAssets.Manifest.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\staticwebassets\moe.StaticWebAssets.xml
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.pdb
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.genruntimeconfig.cache
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\moe.csproj.CopyComplete
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Contato.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Mensagens.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Venda\Adicionar.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Venda\Carrinho.cshtml.g.cs
+C:\Users\Deyvison\Documents\deyvison\SENAC-SENAI\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 4\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mensagens.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\moe.exe
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\moe.deps.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\moe.runtimeconfig.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\moe.runtimeconfig.dev.json
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\moe.dll
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\moe.pdb
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\moe.Views.dll
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\moe.Views.pdb
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.csprojAssemblyReference.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.AssemblyInfoInputs.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.AssemblyInfo.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.csproj.CoreCompileInputs.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.RazorAssemblyInfo.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.RazorAssemblyInfo.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.TagHelpers.input.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.TagHelpers.output.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.RazorCoreGenerate.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Contato.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Mensagens.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Venda\Adicionar.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\Venda\Carrinho.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.RazorTargetAssemblyInfo.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.RazorTargetAssemblyInfo.cs
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.Views.pdb
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.csproj.CopyComplete
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\staticwebassets\moe.StaticWebAssets.Manifest.cache
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\staticwebassets\moe.StaticWebAssets.xml
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.dll
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.pdb
+C:\Users\Deyvison Estevan\Documents\Deyvison\SENAC-TECNICO INFORMÁTICA PARA INTERNET\PI\fase 5\moe\obj\Debug\netcoreapp3.1\moe.genruntimeconfig.cache

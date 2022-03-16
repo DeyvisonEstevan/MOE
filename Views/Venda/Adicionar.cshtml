@@ -1,0 +1,64 @@
+@model Venda
+@{
+    ViewData["Title"] = "Adicionar ao carrinho";
+}
+
+<body>
+    <main>
+        <div>
+            <div class="titulo">
+                <h2>
+                    Adicionar ao carrinho!
+                </h2>
+            </div>
+        </div>
+        <div>
+            <form method="POST" class="formGeral" asp-action="Adicionar">
+                <div class="formCampos">
+                    <div class="campos">
+                        <div>
+                            <label asp-for="IdUsuario" class="inputCampos">Id:</label>
+                            <input type="text" class="text" asp-for="IdUsuario">
+                        </div>
+                    </div>
+                    <div class="campos">
+                        <div>
+                            <label asp-for="IdProduto" class="inputCampos">Código do produto:</label>
+                            <input type="text" class="text" asp-for="IdProduto">
+                        </div>
+                    </div>
+                    <div class="campos">
+                        <div>
+                            <label asp-for="NomeProduto" class="inputCampos">Produto:</label>
+                            <input type="text" class="text" asp-for="NomeProduto">
+                        </div>
+                    </div>
+                    <div class="campos">
+                        <div>
+                            <label asp-for="QuantidadeVendida" class="inputCampos">Quantidade:</label>
+                            <input type="text" class="text" asp-for="QuantidadeVendida">
+                        </div>
+                    </div>
+                    <div class="campos">
+                        <div>
+                            <label asp-for="ValorProduto" class="inputCampos">Valor:</label>
+                            <input type="text" class="text"asp-for="ValorProduto">
+                        </div>
+                    </div>
+                    <div class="campos">
+                        <div>
+                            <label asp-for="ValorTotalProduto" class="inputCampos">Total:</label>
+                            <input type="text" class="text" asp-for="ValorTotalProduto">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <input type="submit" class="btnForm" value="Adicionar ao Carrinho" />
+                </div>
+            </form>
+        </div>
+        <div>
+            @ViewBag.Mensagem
+        </div>
+    </main>
+</body>

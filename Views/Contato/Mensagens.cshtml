@@ -1,0 +1,35 @@
+@model List<Contato>
+@{
+    ViewData["Title"] = "Mensagens";
+}
+
+<body>
+    <main>
+        <div class="titulo">
+            <h2>
+                Leia sua Mensagem!
+            </h2>
+        </div>
+        <div>
+            <table>
+                <thead>
+                    <th>Nome</th>
+                    <th>E-mail</th>
+                    <th>Assunto</th>
+                    <th>Mensagem</th>
+                </thead>
+                <tbody>
+                    @foreach (Contato item in Model)
+                    {
+                        <tr>
+                            <td>@item.nome</td>
+                            <td>@item.email</td>
+                            <td>@item.assunto</td>
+                            <td>@item.mensagem</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </main>
+</body>

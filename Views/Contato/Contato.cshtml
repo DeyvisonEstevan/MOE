@@ -1,0 +1,47 @@
+@model Contato
+@{
+    ViewData["Title"] = "Contato";
+}
+
+<body>
+    <main>
+        <div>
+            <div class="titulo">
+                <h2>
+                    Envie sua Mensagem aqui!
+                </h2>
+            </div>
+            <div>
+                <form class="formGeral" method="POST">
+                    <div class="formCampos">
+                        <div class="campos">
+                            <div>
+                                <label class="inputCampos">Nome:</label>
+                                <input type="text" class="text" asp-for="nome">
+                            </div>
+                        </div>
+                        <div class="campos">
+                            <div>
+                                <label class="inputCampos">E-mail:</label>
+                                <input type="text" class="text" asp-for="email">
+                            </div>
+                        </div>
+                        <div class="campos">
+                            <div>
+                                <label class="inputCampos">Assunto:</label>
+                                <input type="text" class="text" asp-for="assunto">
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <label class="inputMensagem">Mensagem:</label>
+                        <textarea asp-for="mensagem"></textarea>
+                    </div>
+                    <div>
+                        <input type="submit" class="btnForm" value="Enviar mensagem" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+</body>
